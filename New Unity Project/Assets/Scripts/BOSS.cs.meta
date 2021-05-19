@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 30cc9141202f4094f86023f8d6a62ca4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootingSound: {fileID: 8300000, guid: 894767b79d8a279448ad6160318ee73e, type: 3}
+  - firePointP: {instanceID: 0}
+  - P: {instanceID: 0}
+  - firePointP2: {instanceID: 0}
+  - P2: {instanceID: 0}
+  - firePointU: {instanceID: 0}
+  - U: {instanceID: 0}
+  - firePointU2: {instanceID: 0}
+  - U2: {instanceID: 0}
+  - firePointDP: {instanceID: 0}
+  - DP: {instanceID: 0}
+  - firePointDP2: {instanceID: 0}
+  - DP2: {instanceID: 0}
+  - firePointDU: {instanceID: 0}
+  - DU: {instanceID: 0}
+  - firePointDU2: {instanceID: 0}
+  - DU2: {instanceID: 0}
+  - pass: {instanceID: 0}
+  - player: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
